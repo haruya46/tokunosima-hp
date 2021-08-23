@@ -15,9 +15,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-image: url(466.jpg);
   background-size: cover;
-  color: white;
+  color: rgb(98, 0, 255);
   text-align: center;
 }
 
@@ -71,7 +71,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgba(255, 255, 255, 0.9);
   /* positionプロパティをfixedに、topを0に指定してください */
   
   
@@ -81,7 +81,7 @@ header {
 
 .logo {
   width: 124px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .header-left {
@@ -101,7 +101,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: white;
+  color: rgb(0, 17, 255);
   display: block;
 }
 
