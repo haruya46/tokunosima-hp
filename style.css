@@ -124,7 +124,11 @@ header {
 
 .lesson {
   float: left;
-  width: 32%;
+  width: 25%;
+}
+.lesson-icon img{
+  width: 250px;
+
 }
 
 .lesson-icon {
@@ -135,9 +139,7 @@ header {
   
   color: rgb(0, 0, 0);
 }
-.lesson-icon img{
-  width: 300px;
-}
+
 
 .txt-contents {
   width: 80%;
