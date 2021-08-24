@@ -124,7 +124,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 32%;
 }
 
 .lesson-icon {
@@ -132,10 +132,11 @@ header {
 }
 
 .lesson-icon p {
-  position: absolute;
-  top: 90px;
-  width: 100%;
-  color: white;
+  
+  color: rgb(0, 0, 0);
+}
+.lesson-icon img{
+  width: 300px;
 }
 
 .txt-contents {
@@ -171,11 +172,6 @@ header {
 
 footer img {
   width: 125px;
-}
-
-footer p {
-  color: #b3aeb5;
-  font-size: 12px;
 }
 
 footer {
