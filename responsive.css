@@ -47,7 +47,11 @@
     }
     
     .top-wrapper h1 {
-      font-size: 24px;
+      font-size: 20px;
+      color: rgb(140, 0, 255);
+    }
+    .container p{
+      color: rgb(0, 0, 0);
     }
   
     .top-wrapper p {
