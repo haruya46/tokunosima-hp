@@ -59,9 +59,6 @@ a {
   opacity: 0.8;
   border-radius: 4px;
 }
-.btn{
-  margin-top:50px;
-}
 
 .btn:hover {
   opacity: 1;
@@ -74,12 +71,6 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.9);
-  /* positionプロパティをfixedに、topを0に指定してください */
-  
-  
-  /* z-indexを10に指定してください */
-  
 }
 
 .logo {
@@ -93,12 +84,7 @@ header {
 
 .header-right {
   float: right;
-  background-color: rgba(255, 255, 255, 0.3);
   transition: all 0.5s;
-}
-
-.header-right:hover {
-  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .header-right a {
@@ -111,18 +97,18 @@ header {
 .lesson-wrapper {
   height: 500px;
   padding-bottom: 80px;
-  background-color: #f7f7f7;
+  background-color: rgba(255, 255, 255, 0.3);
   text-align: center;
 }
 
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
-  color: #5f5d60;
 }
 
 .heading h2 {
   font-weight: normal;
+  margin-top: 50px;
 }
 
 .lesson {
